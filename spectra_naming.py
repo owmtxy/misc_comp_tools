@@ -4,7 +4,6 @@
 # owmtxy, 2013
 # python v.2.7.5
 
-from noteNames import *
 import math
 
 root = input("Root frequency: ")
